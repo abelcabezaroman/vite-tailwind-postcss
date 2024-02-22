@@ -1,0 +1,6 @@
+.b-btn {
+  background-color: greenyellow;
+  &--sec {
+    background-color: aqua;
+  }
+}

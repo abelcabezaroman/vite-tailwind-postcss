@@ -1,0 +1,6 @@
+@import "./styles/blocks/btn.blocks.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
